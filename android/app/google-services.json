@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "273868138485",
+    "project_id": "bismillah-b3115",
+    "storage_bucket": "bismillah-b3115.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:273868138485:android:6262836f184d93ce3462bc",
+        "android_client_info": {
+          "package_name": "com.example.tripindo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "273868138485-4l1unk59fck1tvdebrci09mgcbeke3tp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKKsXOANlEM0rYTILKM8l7eVlanR8FaBg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "273868138485-4l1unk59fck1tvdebrci09mgcbeke3tp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
